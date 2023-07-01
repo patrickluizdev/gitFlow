@@ -10,15 +10,12 @@
 
 ## Utilização
 
-```
 Para utilizar o template, siga as instruções abaixo:
 
 1. Crie um diretório chamado `.github` na raiz do seu repositório.
 2. Dentro do diretório `.github`, crie um arquivo chamado `PULL_REQUEST_TEMPLATE.md`.
+3. Agora você pode adicionar o conteúdo [Orientações para Pull Requests](https://github.com/patrickluizdev/gitFlow/blob/feature/template/Pull%20Requests.md) ao arquivo `PULL_REQUEST_TEMPLATE.md`, que servirá como modelo para os pull requests no seu repositório.
 
-Agora você pode adicionar o conteúdo [Orientações para Pull Requests](https://github.com/patrickluizdev/gitFlow/blob/feature/template/Pull%20Requests.md) ao arquivo `PULL_REQUEST_TEMPLATE.md`, que servirá como modelo para os pull requests no seu repositório.
-
-```
 
 
 ## Descrição do PR
