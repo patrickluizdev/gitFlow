@@ -7,7 +7,7 @@
 <br>
 <br>
 
-# [Orientações para Pull Requests](https://github.com/patrickluizdev/gitFlow/blob/feature/template/pullrequests.md)
+# [Orientações para Pull Requests](https://github.com/patrickluizdev/gitFlow/blob/feature/template/Pull%20Requests.md)
 
 ## Descrição do PR
 
@@ -38,7 +38,7 @@ Por favor, descreva os testes que você executou para verificar suas alteraçõe
 
 <br>
 
-# [Orientação para Commits Semânticos](https://github.com/patrickluizdev/gitFlow/blob/feature/template/commitssemanticos.md)
+# [Orientação para Commits Semânticos](https://github.com/patrickluizdev/gitFlow/blob/feature/template/Commits%20Sem%C3%A2nticos.md)
 
 ## Feat:
 
