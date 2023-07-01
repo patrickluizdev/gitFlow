@@ -28,7 +28,7 @@
 
 ## Style:
 
-> Mudanças de formatanção ou estilo de código que não influenciam na lógica do sistema.
+> Mudanças de formatação ou estilo de código que não influenciam na lógica do sistema.
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## Perf:
 
-> Alteração feita para melhorar a performace do projeto, exemplo:
+> Alteração feita para melhorar a performance do projeto, exemplo:
 >
 > - Melhorar a query do banco de dados, deixar uma função mais performática, etc...
 
