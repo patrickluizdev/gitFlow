@@ -5,7 +5,6 @@
 # Templates
 
 <br>
-<br>
 
 # [Orientações para Pull Requests](https://github.com/patrickluizdev/gitFlow/blob/feature/template/Pull%20Requests.md)
 
