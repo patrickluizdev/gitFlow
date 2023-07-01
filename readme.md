@@ -1,6 +1,13 @@
+ <br>
+
+---
+
 # Templates
 
-# Orientações para Pull Requests
+<br>
+<br>
+
+# [Orientações para Pull Requests](https://github.com/patrickluizdev/gitFlow/blob/feature/template/pullrequests.md)
 
 ## Descrição do PR
 
@@ -24,19 +31,14 @@ Por favor, descreva os testes que você executou para verificar suas alteraçõe
 - [x] Minhas alterações não geram novos avisos
 - [x] Quaisquer alterações dependentes foram mescladas e publicadas em módulos dependentes
 
- <br>
-
----
-
 <br>
-
 <br>
 
 ---
 
 <br>
 
-# Orientação para commits Semânticos
+# [Orientação para Commits Semânticos](https://github.com/patrickluizdev/gitFlow/blob/feature/template/commitssemanticos.md)
 
 ## Feat:
 
