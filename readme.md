@@ -10,11 +10,14 @@ Para utilizar o template, siga as instruções abaixo:
 
 1. Crie um diretório chamado `.github` na raiz do seu repositório.
 2. Dentro do diretório `.github`, crie um arquivo chamado `PULL_REQUEST_TEMPLATE.md`.
-3. Agora você pode adicionar o conteúdo [Orientações para Pull Requests](https://github.com/patrickluizdev/gitFlow/blob/feature/template/Pull%20Requests.md) ao arquivo `PULL_REQUEST_TEMPLATE.md`, que servirá como modelo para os pull requests no seu repositório.
+3. Agora você pode adicionar o conteúdo [Orientações para Pull Requests](https://github.com/patrickluizdev/gitFlow/edit/develop/Pull%20Requests.md) ao arquivo `PULL_REQUEST_TEMPLATE.md`, que servirá como modelo para os pull requests no seu repositório.
+
+![Exemple Pull Request]()
+
 
 <br>
 
-# [Orientações para Pull Requests](https://github.com/patrickluizdev/gitFlow/blob/feature/template/Pull%20Requests.md)
+# [Orientações para Pull Requests](https://raw.githubusercontent.com/patrickluizdev/gitFlow/develop/Pull%20Requests.md)
 
 ## Descrição da Feature
 
@@ -57,7 +60,7 @@ Descreva os testes que foram realizados para verificar as alterações feitas ne
 
 <br>
 
-# [Orientação para Commits Semânticos](https://github.com/patrickluizdev/gitFlow/blob/feature/template/Commits%20Sem%C3%A2nticos.md)
+# [Orientação para Commits Semânticos](https://github.com/patrickluizdev/gitFlow/edit/develop/Commits%20Sem%C3%A2nticos.md)
 
 ## Feat:
 
