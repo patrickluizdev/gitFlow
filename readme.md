@@ -62,6 +62,8 @@ Descreva os testes que foram realizados para verificar as alterações feitas ne
 
 > > ### [Conventional Commits Extensão](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
 
+> > ### [Git Commitizen](https://github.com/commitizen/cz-cli)
+
 > ### [Utilização Semantic Version](https://github.com/patrickluizdev/gitFlow/blob/develop/semanticVersion.md)
 
 > > ### [Semantic Version Official](https://semver.org/lang/pt-BR/)
