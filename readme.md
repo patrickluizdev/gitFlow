@@ -56,4 +56,6 @@ Descreva os testes que foram realizados para verificar as alterações feitas ne
 
 > ## [Utilização das Branches com Git Flow](https://github.com/patrickluizdev/gitFlow/blob/develop/gitFlow.md)
 
+> ## [Orientação para Git Signature](https://github.com/patrickluizdev/gitFlow/blob/develop/gitAssinature.md)
+
 > ## [Orientação para Commits Semânticos](https://github.com/patrickluizdev/gitFlow/blob/develop/Pull%20Requests.md)
