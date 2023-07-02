@@ -52,6 +52,10 @@ Descreva os testes que foram realizados para verificar as alterações feitas ne
 
 ---
 
+### [Consulte em outros idiomas](https://github.com/patrickluizdev/gitFlow/blob/develop/translate/)
+
+---
+
 # Utilidades
 
 > ## [Utilização das Branches com Git Flow](https://github.com/patrickluizdev/gitFlow/blob/develop/gitFlow.md)
