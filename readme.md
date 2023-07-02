@@ -56,6 +56,4 @@ Descreva os testes que foram realizados para verificar as alterações feitas ne
 
 > ## [Utilização das Branches com Git Flow](https://github.com/patrickluizdev/gitFlow/blob/develop/gitFlow.md)
 
----
-
 > ## [Orientação para Commits Semânticos](https://github.com/patrickluizdev/gitFlow/edit/develop/Commits%20Sem%C3%A2nticos.md)
