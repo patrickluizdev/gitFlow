@@ -1,4 +1,4 @@
-# Tutorial: Utilização de Semantic Version em Projetos
+# Utilização de Semantic Version em Projetos
 
 O Semantic Versioning (ou Versionamento Semântico) é uma convenção para versionamento de software que segue um conjunto de regras para atribuir números de versão significativos a um projeto. Neste tutorial, você aprenderá como utilizar o Semantic Versioning em seus projetos.
 
