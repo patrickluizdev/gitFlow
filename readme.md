@@ -48,11 +48,7 @@ Descreva os testes que foram realizados para verificar as alterações feitas ne
 - [x] Minhas alterações não geram novos avisos
 - [x] Quaisquer alterações dependentes foram mescladas e publicadas em módulos dependentes
 
-<br>
-
----
-
-### [Consulte em outros idiomas](https://github.com/patrickluizdev/gitFlow/blob/develop/translate/)
+> ### [Consulte em outros idiomas](https://github.com/patrickluizdev/gitFlow/blob/develop/translate/)
 
 ---
 
