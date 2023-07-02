@@ -55,7 +55,7 @@ Descreva os testes que foram realizados para verificar as alterações feitas ne
 
 <br>
 
-# [Utilização das Branches com Git Flow](https://github.com/patrickluizdev/gitFlow/edit/develop/gitFlow.md)
+# [Utilização das Branches com Git Flow](https://github.com/patrickluizdev/gitFlow/blob/develop/gitFlow.md)
 
 O Git Flow é um modelo de fluxo de trabalho que utiliza branches para organizar o desenvolvimento de um projeto. Ele fornece uma estrutura clara para trabalhar em diferentes funcionalidades, correções de bugs e lançamentos.
 
@@ -155,8 +155,8 @@ git checkout -b hotfix/nome-do-bug master
 
 10. Por fim, delete as branches `feature`, `release` e `hotfix` quando elas não forem mais necessárias:
     `   git branch -d feature/nome-da-funcionalidade
- git branch -d release/versao-x.y.z
- git branch -d hotfix/nome-do-bug`
+git branch -d release/versao-x.y.z
+git branch -d hotfix/nome-do-bug`
     Lembre-se de adaptar o fluxo de acordo com as necessidades do seu projeto.
 
 <br>
