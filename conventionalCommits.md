@@ -57,3 +57,9 @@
 > Alterações na documentação do projeto, exemplo:
 >
 > - readme, swagger, etc ...
+
+> ### [Conventional Commits Extensão](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
+
+> ### [Conventional Commits Revisão com Node.js](https://commitlint.js.org/#/)
+
+> ### [Git Commitizen](https://github.com/commitizen/cz-cli)

@@ -1,4 +1,4 @@
-# Templates
+# Template Pull Request
 
 <br>
 
@@ -54,6 +54,18 @@ Descreva os testes que foram realizados para verificar as alterações feitas ne
 
 # Utilidades
 
-> ## [Utilização das Branches com Git Flow](https://github.com/patrickluizdev/gitFlow/blob/develop/gitFlow.md)
+> ### [Utilização das Branches com Git Flow](https://github.com/patrickluizdev/gitFlow/blob/develop/gitFlow.md)
 
-> ## [Orientação para Commits Semânticos](https://github.com/patrickluizdev/gitFlow/blob/develop/Pull%20Requests.md)
+> ### [Orientação para Git Signature](https://github.com/patrickluizdev/gitFlow/blob/develop/gitSignature.md)
+
+> ### [Orientação para Conventional Commits](https://github.com/patrickluizdev/gitFlow/blob/develop/conventionalCommits.md)
+
+> > ### [Conventional Commits Extensão](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
+
+> > ### [Git Commitizen](https://github.com/commitizen/cz-cli)
+
+> ### [Utilização Semantic Version](https://github.com/patrickluizdev/gitFlow/blob/develop/semanticVersion.md)
+
+> > ### [Semantic Version Official](https://semver.org/lang/pt-BR/)
+
+> ### [Templete Pull Request](https://github.com/patrickluizdev/gitFlow/blob/develop/pullRequests.md)
