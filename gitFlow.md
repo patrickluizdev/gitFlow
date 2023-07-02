@@ -97,8 +97,7 @@ git checkout -b hotfix/nome-do-bug master
    ```
 
 10. Por fim, delete as branches `feature`, `release` e `hotfix` quando elas não forem mais necessárias:
-    `    git branch -d feature/nome-da-funcionalidade
-    git branch -d release/versao-x.y.z
-    git branch -d hotfix/nome-do-bug
-   `
+    `   git branch -d feature/nome-da-funcionalidade
+ git branch -d release/versao-x.y.z
+ git branch -d hotfix/nome-do-bug`
     Lembre-se de adaptar o fluxo de acordo com as necessidades do seu projeto.
